@@ -12,5 +12,5 @@ button.addEventListener('click', function(){
     }
 
     document.querySelector('#result > span').textContent = result
-
+    
 })
